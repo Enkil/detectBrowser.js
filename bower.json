@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "detect-browser.js",
   "description": "JavaScript function for detecting user browser, browser version and user OS",
   "version": "1.0.1",
