@@ -1,0 +1,25 @@
+{
+  "name": "detectBrowser.js",
+  "main": "detectBrowser.min.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Enkil/detectBrowser.js",
+  "authors": [
+    "Igor [Enkil] Timohin <timohin.i@gmail.com>"
+  ],
+  "description": "JavaScript function for detecting user browser, browser version and user OS",
+  "moduleType": [],
+  "keywords": [
+    "browserdetect",
+    "detectbrowser",
+    "browserversion",
+    "useragent"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
