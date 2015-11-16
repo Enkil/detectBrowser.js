@@ -1,8 +1,8 @@
 {
   "name": "detect-browser.js",
   "description": "JavaScript function for detecting user browser, browser version and user OS",
-  "version": "1.0.2",
-  "main": "detectBrowser.min.js",
+  "version": "1.0.3",
+  "main": "detect-browser.min.js",
   "homepage": "https://github.com/Enkil/detectBrowser.js",
   "repository": {
     "type": "git",
